@@ -29,10 +29,10 @@ def scrape_job_listings
 
   locations.each do |location|
     queries.each do |query|
-      # scrape_indeed(query, location)
-      # scrape_github(query, location)
+       scrape_indeed(query, location)
+       scrape_github(query, location)
      # scrape_glassdoor(query, location)
-     scrape_careerbuilder(query, location)
+     #scrape_careerbuilder(query, location)
     end
   end
 end
