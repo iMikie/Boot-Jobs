@@ -42,6 +42,7 @@ DBC Jobs is a job-searching engine that will API or scrape:
 
 ###Priorities for Team Mates
 Next we the teamates checked in with each other.  What are our priorities and heart felt goals for the project.
+
 1. Mike-- Make something useful and beautiful that our friends can benefit from in the next 4 days
 2. Hank -- Stay mindful about how everyone is doing during this hard week.
 3. Karan- Be professional, hold yourself accountable for being here on time, finishing tasks on time
@@ -50,19 +51,22 @@ Next we the teamates checked in with each other.  What are our priorities and he
 We agreed to standup morning, noon, and night with each other.  We will pair program on everything.
 
 
-Strengths/Weaknesses
-1. Karan
-    -Strength: Back-end/rails-base
-    -Weakness: Front-end, atomic, sass
-2. Vega
-    - Strength: Front-end, CSS
-    - Weakness: Back-end, API consumption
+####Strengths/Weaknesses
+
+1. Mike
+ * Strengths: API Consumption, Rails, UI, REST, Mobile, Stamina, the Concept
+ * Weakness: haven't used nokogiri before
+2. Karan
+ * Strength: Project management, Back-end/rails-base
+ * Weakness: Front-end, atomic, sass
 3. James
-    - Strength: Rails, front-end, prestige world-wide
-    - Weakness: Rabbit-holing
-4. Mike
-    - Strengths: API Consumption, Rails, UI, REST, endurance
-    - Weakness: haven't used nokogiri before
+ * Strength: Rails, front-end, prestige world-wide
+ * Weakness: Rabbit-holing
+4. Vega
+ * Strength: Front-end, CSS
+ * Weakness: Back-end, API consumption
+
+
 ##Thursday Schedule
 
 * 11:15AM - 11:45 AM
