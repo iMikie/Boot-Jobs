@@ -2,9 +2,9 @@
 ![home page](wireframe/boot_jobs_home.png)
 Phase 3 Final Project- 
 * Mike Farr
-* Henry Vega 
 * James Newman
 * Karan Aditya
+* Henry Vega 
 
 ##The Problem
 As a job searcher I have to signup, configure and daily monitor several job listing sites, otherwise I risk missing job opportunities I qualify for.  If my situation, skillset, or requirements change I must update all the different sites.
