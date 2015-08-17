@@ -10,7 +10,14 @@ Phase 3 Final Project-
 As a job searcher I have to signup, configure and daily monitor several job listing sites, otherwise I risk missing job opportunities I qualify for.  If my situation, skillset, or requirements change I must update all the different sites.
 
 ###The Solution
-DBC Jobs is a job-searching engine that will scrape different websites (i.e. "Indeed", "glassdoor"), accessing their information to curate a list of potential jobs in full-stack, rails-based web development in the SF Bay area.
+DBC Jobs is a job-searching engine that will API or scrape:
+* glassdoor
+* Indeed
+* simply hired
+* stackoverflow jobs
+* craigslist jobs
+* rails jobs
+*  accessing their information to curate a list of potential jobs for DBC graduates: i.e. junior full-stack, rails-based web development in the SF Bay area.
 
 ##User Stories - MVP.  As a user I want to...
 * ...be able to see all my job listings at one site
