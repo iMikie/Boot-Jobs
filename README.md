@@ -39,9 +39,10 @@ DBC Jobs is a job-searching engine that will API or scrape:
 
 
 
+
+###Priorities for Team Mates
 Next we the teamates checked in with each other.  What are our priorities and heart felt goals for the project.
-###Goals for Boot Jobs
-1. Mike-- Make something that our friends can use by the end of this week
+1. Mike-- Make something useful and beautiful that our friends can benefit from in the next 4 days
 2. Hank -- Stay mindful about how everyone is doing during this hard week.
 3. Karan- Be professional, hold yourself accountable for being here on time, finishing tasks on time
 4. James- Stretch our limits, push ourselves, have an MVP product by the end
@@ -60,10 +61,8 @@ Strengths/Weaknesses
     - Strength: Rails, front-end, prestige world-wide
     - Weakness: Rabbit-holing
 4. Mike
-    - Strength: API Consumption, problem-solving using agile development
-    - Weakness: haven't used nokogiri
-    - 
-    - 
+    - Strengths: API Consumption, Rails, UI, REST, endurance
+    - Weakness: haven't used nokogiri before
 ##Thursday Schedule
 
 * 11:15AM - 11:45 AM
