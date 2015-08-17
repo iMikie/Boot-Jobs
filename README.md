@@ -174,3 +174,17 @@ This is how we start our project.
 
 [Here is the link on Trello](https://trello.com/b/sYYztdxH/bootjobs)
 , if you have access to it. 
+### The Final Project
+The initial screen lets you choose from SF, Chicago, and NYC where Dev Bootcamp runs bootcamps.
+![home page](wireframe/boot_jobs_home.png)
+![home page](wireframe/Chicago.png)
+![home page](wireframe/NYC.png)
+
+The main screen displays a job index from which you can bring up the original job page in an iframe.
+
+###Next on the ToDo list
+* Convert from scraping with Nokigiri to API access
+* Really add Chicago and NYC
+* Sign affiliate agreements with recruiting and job listing companies
+* Finish User accounts
+* Add user customizable search terms, e.g. add "Ember.js" when that skill is learned, then prioritize by skill matches
