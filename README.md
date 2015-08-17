@@ -176,15 +176,18 @@ This is how we start our project.
  
 ![Here is the kanban](BootJobs-Kanban.png).
 
-[Here is the link on Trello](https://trello.com/b/sYYztdxH/bootjobs)
-, if you have access to it. 
 ### The Final Project
 The initial screen lets you choose from SF, Chicago, and NYC where Dev Bootcamp runs bootcamps.
 ![home page](wireframe/boot_jobs_home.png)
 ![home page](wireframe/Chicago.png)
 ![home page](wireframe/NYC.png)
 
-The main screen displays a job index from which you can bring up the original job page in an iframe.
+* Selecting a city and clicking **search** reveals a list of Rails developer jobs for that city.  
+
+* Clicking on a job in the listing on the left brings up the original source HTML page (or a reconstruction of its information in an iframe.
+
+![home page](wireframe/job_listing.png)
+
 
 ###Next on the ToDo list
 * Convert from scraping with Nokigiri to API access
