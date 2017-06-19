@@ -9,7 +9,7 @@ Phase 3 Final Project-
 ##The Problem
 As a job searcher I have to signup, configure and daily monitor several job listing sites, otherwise I risk missing job opportunities I qualify for.  If my situation, skillset, or requirements change I must update all the different sites.
 
-###The Solution
+### The Solution
 DBC Jobs is a job-searching engine that will API or scrape:
 * glassdoor
 * Indeed
@@ -19,7 +19,7 @@ DBC Jobs is a job-searching engine that will API or scrape:
 * rails jobs
 *  accessing their information to curate a list of potential jobs for DBC graduates: i.e. junior full-stack, rails-based web development in the SF Bay area.
 
-##User Stories - MVP.  As a user I want to...
+## User Stories - MVP.  As a user I want to...
 * ...be able to see all my job listings at one site
 * ...be able to see appropriate job listings for a DBC graduate immediately without configuration
 * ...be able to add new skills to my profile and be shown additional jobs that I'm now qualified for.
@@ -29,7 +29,7 @@ DBC Jobs is a job-searching engine that will API or scrape:
 * ...have a "single page", simple, fast experience.* 
 * ...authenticate with GitHub since my peers and I all have Git Hub
 
-##User Stories - Stretch.  As a user I want to...
+## User Stories - Stretch.  As a user I want to...
 * ...receive an email with my customized job listing every morning
 * ...Reviews of companies, interview styles by DBC students and alumni
 * ...check job postings via smartphone
@@ -40,7 +40,7 @@ DBC Jobs is a job-searching engine that will API or scrape:
 
 
 
-###Priorities for Team Mates
+### Priorities for Team Mates
 Next we the teamates checked in with each other.  What are our priorities and heart felt goals for the project.
 
 1. Mike-- Make something useful and beautiful that our friends can benefit from in the next 4 days
@@ -51,7 +51,7 @@ Next we the teamates checked in with each other.  What are our priorities and he
 We agreed to standup morning, noon, and night with each other.  We will pair program on everything.
 
 
-####Strengths/Weaknesses
+#### Strengths/Weaknesses
 
 1. Mike
  * Strengths: API Consumption, Rails, UI, REST, Mobile, Stamina, the Concept
@@ -67,7 +67,7 @@ We agreed to standup morning, noon, and night with each other.  We will pair pro
  * Weakness: Back-end, API consumption
 
 
-##Thursday Schedule
+## Thursday Schedule
 
 * 11:15AM - 11:45 AM
  * Discuss schedule and standup times...etc.
@@ -102,7 +102,7 @@ We agreed to standup morning, noon, and night with each other.  We will pair pro
 
 ------------------------------------------
 
-##Friday, July 17, 2015
+## Friday, July 17, 2015
 
 * 11:00 AM- **Standup (1 min each)**
  * James- Yesterday was good. K and I went through phase 1 nokogiri challenge, get a good feel for nokogiri. Did not write any code.  
@@ -119,21 +119,21 @@ We agreed to standup morning, noon, and night with each other.  We will pair pro
   * Thought about today's day plan
   * Want to stay positive and on schedule, worked really well yesterday
 
-##Wireframes by Mike
-###Home page.  
+## Wireframes by Mike
+### Home page.  
 * One button displays our standard list of DBC compatible jobs.  
 * The other is a button to login with github.
 
 ![home page](wireframe/home.png)
 
-###Aggregate job listing.  Clicking on a listing 
+### Aggregate job listing.  Clicking on a listing 
 ![job-listing page](wireframe/job_listing.png)
 
 ###Initial design of our user's profile page
 
 ![user-profile](wireframe/profile_page.png)
 
-###DBC Jobs  Daily Schedule  Friday July 17, 2015
+### DBC Jobs  Daily Schedule  Friday July 17, 2015
 
 * 11:00 AM - 11:15 AM
  * Recap of design
@@ -171,7 +171,7 @@ We agreed to standup morning, noon, and night with each other.  We will pair pro
  * 360 degree feedback
  * Prep
 
-##Kanban Board
+## Kanban Board
 This is how we start our project.  
  
 ![Here is the kanban](BootJobs-Kanban.png).
