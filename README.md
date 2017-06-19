@@ -189,7 +189,7 @@ The initial screen lets you choose from SF, Chicago, and NYC where Dev Bootcamp 
 ![home page](wireframe/job_listing.png)
 
 
-###Next on the ToDo list
+### Next on the ToDo list
 * Convert from scraping with Nokigiri to API access
 * Really add Chicago and NYC
 * Sign affiliate agreements with recruiting and job listing companies
